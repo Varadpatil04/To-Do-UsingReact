@@ -11,11 +11,9 @@ This is a simple todo list application built with React.js utilizing the Context
 
 ## Demo
 
-_Insert a link to a live demo of your application here, if available._
+https://to-do-react-context.netlify.app/
 
-## Screenshots
 
-_Insert screenshots of your application here, showcasing its functionality and design._
 
 ## Installation
 
